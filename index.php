@@ -1,0 +1,1 @@
+<?php header( 'Location: modules/search_page.php' ) ; ?>

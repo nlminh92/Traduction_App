@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    font: Arial, Helvetica, sans-serif;
+    font-size: 14px;;
+    line-height: 1.5em;
+}
+
+.text {
+    width: 355px;
+    height: 24px;
+    margin: 2px 0;
+}
+
+#dict_type {
+    height: 24px;
+    margin: 2px 0;
+    padding: 4px;
+    width: 110px;
+}
+
+.button {
+    width: 100px;
+}
+
+.tdtext {
+    width: 70%;
+}
+
+table {
+    width: 100%;
+}
+
+#waper {
+    max-width: 600px;
+    margin: 0 auto;
+    border: #F00 1px solid;
+}
+
+#banner img {
+    width: 100%;
+}
+
+#menu {
+    border-bottom: #F00 1px solid;
+    padding: 2px 5px;
+}
+
+#content {
+    padding: 5px;
+}
+
+.title {
+    font-size: 18px;
+    background: #EBEBEB;
+    color: #F00;
+    font-weight: bold;
+}
+
+.enword, .enword_detail {
+    background: #D2A6FF;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.boil {
+    font-weight: bold;
+    color: #009F92;
+}
+
+#footer {
+    background: #FFFFCA;
+    text-align: center;
+    color: #F00;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.login {
+    display: block;
+    float: right;
+
+}
+
+.search_result {
+    display: block;
+    width: auto;
+    margin: 4px;
+}
+
+.them_moi_menu {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+hr {
+    color: red;
+}
+
+.them_moi_form {
+    display: block;
+    float: left;
+    clear: both;
+    text-align: left;
+    width: 100%;
+}
+
+input {
+    height: 24px;
+}
+
+input[type=button], input[type=submit] {
+    height: 26px;
+}
+
+input[type = text] {
+    float: left;
+    display: block;
+}
+
+.them_moi_form input[type = text] {
+    width: 370px;
+    margin: 5px;
+}
+.them_moi_form input[type = submit] {
+    clear: both;
+    width: 100px;
+    display: block;
+    float: left;
+    margin-left: 163px;
+}
+label {
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    float: left;
+    margin: 5px;
+    height: 24px;
+    line-height: 24px;
+    width: 150px;
+    clear: both;
+}
+
+.cke_chrome {
+    float: left;
+    margin: 5px!important;
+    visibility: inherit;
+    width: 370px!important;
+}
+
+.cke_contents {
+    height: 150px!important;
+}
+#add_row {
+    display: block;
+    float: right;
+    margin-right: 48px;
+    clear: both;
+}
+
+#luu_lai {
+    margin-left: 315px;
+}
